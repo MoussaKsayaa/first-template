@@ -157,6 +157,10 @@ i {
   text-align: center;
   margin-top: 80px;
 }
+.service {
+  width: 100%;
+  flex-wrap: wrap;
+}
 .service p {
   font-weight: 400;
   font-size: large;
